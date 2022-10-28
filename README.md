@@ -1,4 +1,4 @@
-### Hi there, my name is Miquel Angel.
+### Hi there, my name is Sergi Rivero Galán.
 
 - Learning java.
 - Currently learning the Bukkit API & Java API.
