@@ -1,8 +1,7 @@
-### Hi there, my name is Sergi Rivero Galán.
+### Hi! My name is Sergi Rivero Galán.
 
-- Learning java.
-- Currently learning the Bukkit API & Java API.
-- I dont give support to my open-sourced projects.
+- I'm a junior developer.
+- Currently learning the Java API, JavaScript and PHP. 
 
 ## How to reach me
 
