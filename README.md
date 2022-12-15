@@ -20,21 +20,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Git](https://img.shields.io/github/followers/sriverogalan?style=social)
-
-## Github Achievements
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriverogalan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-## Used languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriverogalan&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-## Metrics
-
-![Metrics](https://metrics.lecoq.io/sriverogalan?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FPanama&config.padding=0%2C%2015%25)
-
-## Currently working and learning with: 
- 
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a> 
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
@@ -47,3 +32,16 @@
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
 <a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a> 
+
+## Github Achievements
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriverogalan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriverogalan&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+## Metrics
+
+![Metrics](https://metrics.lecoq.io/sriverogalan?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FPanama&config.padding=0%2C%2015%25)
+ 
