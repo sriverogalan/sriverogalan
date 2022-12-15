@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Sergi Rivero Galan 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/sriverogalan"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
-  <a href="https://www.linkedin.com/in/sergi-rivero-gal%C3%A1n-064aa721b/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a> 
+  <a href="https://github.com/sriverogalan"><img alt="GitHub" title="GitHub" height="48" width="48" src="icons/github.png"></a>
+  <a href="https://www.linkedin.com/in/sergi-rivero-gal%C3%A1n-064aa721b/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="icons/linkedin.png"></a> 
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/CEntYKc5"><img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg"></a>
-  <a href="https://twitter.com/sriverogalan"><img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg"></a> 
+  <a href="https://discord.gg/CEntYKc5"><img alt="Discord" title="Discord" height="48" width="48" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
+  <a href="https://twitter.com/sriverogalan"><img alt="Twitter" title="Twitter" height="48" width="48" src="icons/twitter.png"></a> 
 </p>
 <br>
 - I'm a junior developer.
