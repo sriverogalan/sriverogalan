@@ -28,13 +28,9 @@
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
 <a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>  
-</div> 
-
-## And this technologies ⚡
-
+</div>   
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  
 
 ## Github Achievements
 
