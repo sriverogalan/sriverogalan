@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Sergi Rivero Galan 👋</h1>
 
+<h3> 
+- I'm a junior developer.<br>
+- Currently learning the Java API, JavaScript and PHP. <br> 
+</h3>
+
 <p align="center">
   <a href="https://github.com/sriverogalan"><img alt="GitHub" title="GitHub" height="48" width="48" src="icons/github.png"></a>
   <a href="https://www.linkedin.com/in/sergi-rivero-gal%C3%A1n-064aa721b/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="icons/linkedin.png"></a> 
@@ -9,10 +14,6 @@
   <a href="https://discord.gg/CEntYKc5"><img alt="Discord" title="Discord" height="48" width="48" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
   <a href="https://twitter.com/sriverogalan"><img alt="Twitter" title="Twitter" height="48" width="48" src="icons/twitter.png"></a> 
 </p> 
-<p> 
-- I'm a junior developer.<br>
-- Currently learning the Java API, JavaScript and PHP. <br> 
-</p>
 
 ## ⚡ Technologies
 
