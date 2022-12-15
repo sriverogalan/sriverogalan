@@ -8,10 +8,11 @@
 <p align="center">
   <a href="https://discord.gg/CEntYKc5"><img alt="Discord" title="Discord" height="48" width="48" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
   <a href="https://twitter.com/sriverogalan"><img alt="Twitter" title="Twitter" height="48" width="48" src="icons/twitter.png"></a> 
+</p> 
+<p> 
+- I'm a junior developer.<br>
+- Currently learning the Java API, JavaScript and PHP. <br> 
 </p>
-<br>
-- I'm a junior developer.
-- Currently learning the Java API, JavaScript and PHP.  
 
 ## ⚡ Technologies
 
