@@ -14,7 +14,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Git]https://img.shields.io/github/followers/sriverogalan?style=social
+![Git](https://img.shields.io/github/followers/sriverogalan?style=social)
 
 ## Github Achievements
 
