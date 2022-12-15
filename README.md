@@ -16,10 +16,8 @@
 ## ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Git](https://img.shields.io/github/followers/sriverogalan?style=social)
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a> 
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
@@ -44,4 +42,7 @@
 ## Metrics
 
 ![Metrics](https://metrics.lecoq.io/sriverogalan?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FPanama&config.padding=0%2C%2015%25)
+
+## Follow me! 
+![Git](https://img.shields.io/github/followers/sriverogalan?style=social)
  
