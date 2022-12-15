@@ -28,8 +28,8 @@
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
 <a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>  
-<a href="https://nodejs.org/en/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
-</div>    
+<a href="https://nodejs.org/en/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>  
+<a href="https://vuejs.org/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a>
 
 
 ## Github Achievements
