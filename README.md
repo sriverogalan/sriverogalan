@@ -13,11 +13,8 @@
   <a href="https://twitter.com/sriverogalan"><img alt="Twitter" title="Twitter" height="48" width="48" src="icons/twitter.png"></a> 
 </p> 
 
-## ⚡ Technologies
-
-![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+## ⚡ Technologies 
+<div align="center">
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a> 
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
@@ -29,8 +26,14 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
 <a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
-<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a> 
+<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>  
+</div> 
 
+<div align="center">
+![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
+</div>
 ## Github Achievements
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriverogalan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
