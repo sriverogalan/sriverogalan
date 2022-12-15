@@ -30,7 +30,7 @@
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>  
 </div> 
 
-## And
+## And this technologies ⚡
 
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) 
