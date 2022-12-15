@@ -14,6 +14,7 @@
 </p> 
 
 ## ⚡ Technologies 
+
 <div align="center">
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a> 
@@ -29,11 +30,12 @@
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>  
 </div> 
 
-<div align="center">
+## And
+
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
-</div>
+
 ## Github Achievements
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriverogalan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
