@@ -1,12 +1,17 @@
-### Hi! My name is Sergi Rivero Galán.
+<h1 align="center">Hi, I'm Sergi Rivero Galan 👋</h1>
 
+<p align="center">
+  <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
+  <a href="https://www.linkedin.com/in/sergi-rivero-gal%C3%A1n-064aa721b/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a> 
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/CEntYKc5"><img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg"></a>
+  <a href="https://twitter.com/sriverogalan"><img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg"></a> 
+</p>
+<br>
 - I'm a junior developer.
-- Currently learning the Java API, JavaScript and PHP. 
-
-## How to reach me
-
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriverogalan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/s_rg_)
+- Currently learning the Java API, JavaScript and PHP.  
 
 ## ⚡ Technologies
 
@@ -27,3 +32,18 @@
 ## Metrics
 
 ![Metrics](https://metrics.lecoq.io/sriverogalan?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FPanama&config.padding=0%2C%2015%25)
+
+## Currently working and learning with: 
+ 
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
+<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a> 
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>   
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a> 
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
+<a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
+<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a> 
