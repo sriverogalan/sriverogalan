@@ -16,6 +16,7 @@
 </p> 
  
 
+<div align="center">
 ## ⚡ Technologies 
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a> 
@@ -49,3 +50,4 @@
 ## Follow me! 
 ![Git](https://img.shields.io/github/followers/sriverogalan?style=social)
  
+</div>
