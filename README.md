@@ -1,3 +1,5 @@
+ 
+<div align="center">
 <h1 align="center">Hi, I'm Sergi Rivero Galan 👋</h1>
 
 <h3> 
@@ -12,10 +14,9 @@
   <a href="https://discord.gg/Ep6pdRYh2H"><img alt="Discord" title="Discord" height="48" width="48" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
   <a href="https://twitter.com/sriverogalan"><img alt="Twitter" title="Twitter" height="48" width="48" src="icons/twitter.png"></a> 
 </p> 
+ 
 
 ## ⚡ Technologies 
-
-<div align="center">
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a> 
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
