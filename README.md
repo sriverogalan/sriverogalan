@@ -1,5 +1,5 @@
  
-<div align="center">
+
 <h1 align="center">Hi, I'm Sergi Rivero Galan 👋</h1>
 
 <h3> 
