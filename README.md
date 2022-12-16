@@ -12,7 +12,7 @@
   <a href="https://github.com/sriverogalan"><img alt="GitHub" title="GitHub" height="48" width="48" src="icons/github.png"></a>
   <a href="https://www.linkedin.com/in/sergi-rivero-gal%C3%A1n-064aa721b/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="icons/linkedin.png"></a> 
   <a href="https://discord.gg/Ep6pdRYh2H"><img alt="Discord" title="Discord" height="48" width="48" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-  <a href="https://twitter.com/sriverogalan"><img alt="Twitter" title="Twitter" height="48" width="48" src="icons/twitter.png"></a> 
+  <a href="https://twitter.com/s_r_g"><img alt="Twitter" title="Twitter" height="48" width="48" src="icons/twitter.png"></a> 
 </p> 
  
 
