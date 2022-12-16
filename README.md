@@ -20,8 +20,8 @@
  
 ## ⚡ Technologies 
  
-<a href="https://vuejs.org/" title="vue.js"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a>  
-<a href="https://nodejs.org/en/"  title="Node.js"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>  
+<div align="auto">
+<a href="https://vuejs.org/" title="vue.js"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a>   
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a> 
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
@@ -31,8 +31,9 @@
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
 <a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
-<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
-
+<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png"/></a>
+<a href="https://nodejs.org/en/"  title="Node.js"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a> 
+ </div>
 
 ## ⚡ IDE
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a> 
@@ -53,4 +54,5 @@
 ## Follow me! 
 ![Git](https://img.shields.io/github/followers/sriverogalan?style=social)
  
+</div>
 </div>
