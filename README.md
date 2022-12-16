@@ -23,7 +23,6 @@
 <div align="auto">
 <a href="https://vuejs.org/" title="vue.js"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a>   
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a> 
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>   
