@@ -32,6 +32,8 @@
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png"/></a>
 <a href="https://nodejs.org/en/"  title="Node.js"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a> 
  </div> 
+ 
+ 
 ## Github Achievements
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriverogalan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
