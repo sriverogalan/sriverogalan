@@ -3,8 +3,7 @@
 <h1 align="center">Hi, I'm Sergi Rivero Galan 👋</h1>
 
 <h3> 
-- I'm a junior developer.<br>
-- Currently learning the Java API, JavaScript and PHP. <br> 
+- I'm a junior developer.<br> 
 - How can you find me? <br><br>
 </h3>
 
