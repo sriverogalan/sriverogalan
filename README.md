@@ -1,12 +1,6 @@
  
 
-<h1 align="center">Hi, I'm Sergi Rivero Galan 👋</h1>
-
-<h3> 
-- I'm a junior developer.<br> 
-- How can you find me? <br><br>
-</h3>
-
+<h1 align="center">Hi, I'm Sergi Rivero Galan 👋</h1>  
 <p align="center">
   <a href="https://github.com/sriverogalan"><img alt="GitHub" title="GitHub" height="48" width="48" src="icons/github.png"></a>
   <a href="https://www.linkedin.com/in/sergi-rivero-gal%C3%A1n-064aa721b/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="icons/linkedin.png"></a> 
