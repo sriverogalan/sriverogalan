@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/srivero-limit"><img alt="GitHub" title="GitHub" height="48" width="48" src="icons/github.png"></a>
   <a href="https://www.linkedin.com/in/sergi-rivero-gal%C3%A1n-064aa721b/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="icons/linkedin.png"></a> 
-  <a href="https://discord.gg/Ep6pdRYh2H"><img alt="Discord" title="Discord" height="48" width="48" src="https://discord.com/discord.svg"></a> 
+  <a href="https://discord.gg/Ep6pdRYh2H"><img alt="Discord" title="Discord" height="48" width="48" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png"></a> 
 </p> 
  
 
