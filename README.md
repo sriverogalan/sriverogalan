@@ -25,20 +25,11 @@
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png"/></a>
 <a href="https://nodejs.org/en/"  title="Node.js"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a> 
  </div> 
- 
- 
-## Github Achievements
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriverogalan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 ## Used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriverogalan&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-## Metrics
-
-![Metrics](https://metrics.lecoq.io/sriverogalan?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FPanama&config.padding=0%2C%2015%25)
-
+ 
 ## Follow me! 
 ![Git](https://img.shields.io/github/followers/sriverogalan?style=social)
  
