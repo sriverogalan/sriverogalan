@@ -9,7 +9,7 @@
 
 <div align="center">
  
-## ⚡ Technologies 
+###
  
 <div align="auto">
 <a href="https://vuejs.org/" title="vue.js"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a>   
@@ -23,16 +23,11 @@
 <a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png"/></a>
 <a href="https://nodejs.org/en/"  title="Node.js"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a> 
- </div> 
-  
-## Used languages
+ </div>  
 
- 
 ###
 
-<div align="center">
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriverogalan&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=sriverogalan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sriverogalan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -42,5 +37,4 @@
 
 ###
  
-</div>
-</div>
+</div> 
