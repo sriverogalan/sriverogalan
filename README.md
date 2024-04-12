@@ -138,13 +138,3 @@
 </div>
 
 ###
-
-<h3 align="center">__________________________________________________________________________________</h3>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sriverogalan/sriverogalan/output/snake.svg" alt="Snake animation" />
-
-###
