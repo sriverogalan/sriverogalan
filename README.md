@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sergi and I'm a Full Stack Developer, from Mallorca, Spain</h2>
+<h2 align="center">Hi 👋! My name is Sergi and I'm a Senior Software Developer, from Spain</h2>
 
 ###
 
